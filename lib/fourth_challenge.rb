@@ -29,8 +29,8 @@ def fourth_challenge
         },
         {
           :name => "Nurse"
-          :age => "18"
-          :attitude => "hot-headed"
+          :age => "44"
+          :attitude => "worried"
         }
       ]
    }
